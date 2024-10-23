@@ -1,8 +1,8 @@
-## Projeto: Implementação com chat usando o langchain_ollama
+## Projeto: App chat usando AI com langchain
 <hr>
 
 ### :zap: Tecnologias
-* [Python](https://docs.python.org/3/)
+* [Python v3.9.13](https://docs.python.org/3/)
 * [Langchain](https://www.langchain.com/)
 <hr>
 
@@ -14,8 +14,10 @@
 ##### 2 - Abrir a pasta do projeto e instalar as dependências
   `pip install langchain langchain_community langchain-huggingface`
   `pip install python-dotenv`
+  `pip install torch==2.3.1 torchvision torchaudio`
   `pip install transformers einops accelerate bitsandbytes`
-  `pip install langchain_ollama`
+  `pip install langchain_ollama langchain_openai`
+  `pip install streamlit`
 
 ##### 3 - Rodar a aplicação
   `python chat.py`
