@@ -2,8 +2,8 @@
 <hr>
 
 ### :zap: Tecnologias
-* [Python v3.9.13](https://docs.python.org/3/)
-* [Langchain](https://www.langchain.com/)
+![Python-v3.9.13](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![image](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 <hr>
 
 ## :computer: Clone
