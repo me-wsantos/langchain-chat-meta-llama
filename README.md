@@ -19,8 +19,9 @@
   `pip install langchain_ollama langchain_openai`
   `pip install streamlit`
 
-##### 3 - Rodar a aplicação
-  `python chat.py`
+##### 3 - Rodar as aplicações
+  `python chat_meta_llama.py`
+  `python chat_ollama.py`
 
 ### :technologist: Autor
   <a href="https://github.com/me-wsantos">
